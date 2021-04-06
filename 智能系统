@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T15:23:45.616Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="fcKpPkF9DN9d7HFnU1GD" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T15:26:00.322Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="6AvpSNNYpAvyvKXzwC1A" version="13.8.8" type="github">
   <diagram id="z3WU4-eTk7CpSFiVhTRu" name="Page-1">
     <mxGraphModel dx="782" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,31 +55,22 @@
         <mxCell id="Z-aWfB5VDmpZaTBEwyng-16" value="光照强度传感器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="301" y="485" width="53.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z-aWfB5VDmpZaTBEwyng-17" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="400" y="437.5" width="37.5" height="42.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-aWfB5VDmpZaTBEwyng-19" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="460" y="437.5" width="37.5" height="42.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-aWfB5VDmpZaTBEwyng-21" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="520" y="437.5" width="37.5" height="42.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Z-aWfB5VDmpZaTBEwyng-23" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z-aWfB5VDmpZaTBEwyng-3" target="Z-aWfB5VDmpZaTBEwyng-17">
+        <mxCell id="Z-aWfB5VDmpZaTBEwyng-23" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z-aWfB5VDmpZaTBEwyng-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="430" as="sourcePoint" />
-            <mxPoint x="430" y="380" as="targetPoint" />
+            <mxPoint x="418.75" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z-aWfB5VDmpZaTBEwyng-24" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z-aWfB5VDmpZaTBEwyng-3" target="Z-aWfB5VDmpZaTBEwyng-19">
+        <mxCell id="Z-aWfB5VDmpZaTBEwyng-24" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z-aWfB5VDmpZaTBEwyng-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="370" as="sourcePoint" />
-            <mxPoint x="476.25" y="450" as="targetPoint" />
+            <mxPoint x="478.75" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z-aWfB5VDmpZaTBEwyng-25" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z-aWfB5VDmpZaTBEwyng-3" target="Z-aWfB5VDmpZaTBEwyng-21">
+        <mxCell id="Z-aWfB5VDmpZaTBEwyng-25" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z-aWfB5VDmpZaTBEwyng-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="422.5" y="380" as="sourcePoint" />
-            <mxPoint x="438.75" y="460" as="targetPoint" />
+            <mxPoint x="538.75" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z-aWfB5VDmpZaTBEwyng-26" value="湿度控制器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -99,6 +90,15 @@
         </mxCell>
         <mxCell id="Z-aWfB5VDmpZaTBEwyng-32" value="......" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354.5" y="460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-aWfB5VDmpZaTBEwyng-35" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="400" y="437.5" width="37.5" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-aWfB5VDmpZaTBEwyng-36" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="460" y="437.5" width="37.5" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-aWfB5VDmpZaTBEwyng-37" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="520" y="437.5" width="37.5" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
